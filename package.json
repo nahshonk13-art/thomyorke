@@ -1,0 +1,25 @@
+{
+  "name": "thomyorke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahshonk13-art/thomyorke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahshonk13-art/thomyorke/issues"
+  },
+  "homepage": "https://github.com/nahshonk13-art/thomyorke#readme",
+  "dependencies": {
+    "jsonfile": "^6.2.0",
+    "moment": "^2.30.1"
+  }
+}
